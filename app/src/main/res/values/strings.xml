@@ -1,0 +1,54 @@
+<resources>
+    <string name="base_url_location">http://api.sypexgeo.net/</string>
+    <string name="aeris_client_id">r7hybJ4W1D2kIjaZp0bNZ</string>
+    <string name="aeris_client_secret">ClxSMzXXqlHBrM3sMquweYsOAwxJIXtexJTBw4Qc</string>
+    <string name="base_url">https://api.aerisapi.com/</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="btn_sheet_add">Add to places</string>
+    <string name="btn_sheet_delete">Delete marker</string>
+    <string name="btn_sheet_dismiss">Continue</string>
+    <string name="warning_unknown_location">Unknown location</string>
+    <string name="warning_unknown_city_state">U/L</string>
+    <string name="select_location">Select</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="map_standard">Standard</string>
+    <string name="map_dark">Dark</string>
+    <string name="map_retro">Retro</string>
+    <string name="show_search">Show search button</string>
+    <string name="selected_location">(Selected location)</string>
+    <string name="exit">Save &amp; back to forecast</string>
+    <string name="list_of_places">List is EMPTY, please add new place. Click on marker and select "Add to place".</string>
+    <string name="network_error">No network connection, please try again later.</string>
+    <string name="wait_err">Please wait, or try again later.</string>
+    <string name="find_location">Find location</string>
+    <string name="mper_second">м/с</string>
+    <string-array name="day_of_week">
+        <item></item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="month_arr">
+        <item>Января</item>
+        <item>Февраля</item>
+        <item>Марта</item>
+        <item>Апреля</item>
+        <item>Мая</item>
+        <item>Июня</item>
+        <item>Июля</item>
+        <item>Августа</item>
+        <item>Сентября</item>
+        <item>Октября</item>
+        <item>Ноября</item>
+        <item>Декабря</item>
+    </string-array>
+</resources>

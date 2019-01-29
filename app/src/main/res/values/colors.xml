@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004fab</color>
+    <color name="colorPrimaryDark">#01055c</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="screenWeatherBackgroundColor">#4A90E2</color>
+    <color name="dayBackgroundColor">#5A9FF0</color>
+    <color name="weekWeatherSelectedColor">#F3F8FE</color>
+    <color name="dayWeatherTextColor">#FFFFFF</color>
+    <color name="weekWeatherTextColor">#000000</color>
+    <color name="headBlack">#212121</color>
+    <color name="statusBarRetro">#ded3ae</color>
+    <color name="statusBarStandart">#bdd7b5</color>
+    <color name="headRetro">#eadfb7</color>
+    <color name="headStandart">#c7e2bf</color>
+</resources>
